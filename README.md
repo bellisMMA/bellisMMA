@@ -1,6 +1,6 @@
  <img alt="GIF" src="https://github.com/bellisMMA/bellisMMA/blob/main/image002.png" width="30%" />
 
-### Hello, I'm Bryce, an iOS Developer located in Memphis, TN👨🏿‍💻
+### Hello, I'm Bryce, an iOS developer located in Memphis, TN👨🏿‍💻
 
 
 ### SKILLS:
