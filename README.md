@@ -7,7 +7,7 @@ Hello, my name is Bryce! 👋🏿 I am an iOS developer located in Memphis, TN
 
 ### Fun facts: 
 - 👟 I ran a 50 miler with only six days notice
-- 🥁 I enjoy playing from the heart on drums and ukulele
+- 🥁 I play the drums
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zbe/)
