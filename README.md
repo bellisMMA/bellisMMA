@@ -1,6 +1,6 @@
- <img align="right" src="https://github.com/bellisMMA/bellisMMA/blob/main/image002.png" width="60%" />
+ <img src="https://github.com/bellisMMA/bellisMMA/blob/main/image002.png" width="60%" />
 
-Hello, my name is Bryce! 👋🏿 I am an iOS developer located in Memphis, TN. Talk to me about iOS development, design, and Agile methodoliges!
+Hello, my name is Bryce! 👋🏿 I am an iOS developer located in Memphis, TN. 📍 Talk to me about all things Swift and iOS development, Design, or Agile methodoliges!
 
 ### Technical Skills:
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
