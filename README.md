@@ -1,6 +1,6 @@
  <img src="https://github.com/bellisMMA/bellisMMA/blob/main/image002.png" width="60%" />
 
-Hello, my name is Bryce! 👋🏿 I am an iOS developer located in Memphis, TN. 📍 I've been on the iNGAGED team since May 2023, and I am so happy to grow my professional experience here. Talk to me about all things Swift and iOS development, Design, or Agile methodoliges!
+Hello, my name is Bryce! 👋🏿 I am an iOS developer located in Memphis, TN. 📍 I've been on the iNGAGED team since May 2023, and I am so happy to grow my professional experience here. Talk to me about all things iOS development, Design, or Agile methodoliges!
 
 ### Technical Skills:
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
