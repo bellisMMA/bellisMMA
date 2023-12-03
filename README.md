@@ -17,8 +17,8 @@ Hello, my name is Bryce! 👋🏿 I am an iOS developer located in Memphis, TN. 
 
 
 ### Fun facts: 
-- 👟 I ran a 50 miler with only six days notice
-- 🥁 I play the drums
+- 👟 I enjoy participating marathons, so much that I even completed a 50 mile race (Oct. 2021)!
+- 🥁 I play the drums and ukulele 
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zbe/)
