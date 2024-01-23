@@ -23,7 +23,7 @@ Hello, my name is Bryce! 👋🏿 I started learning iOS Development my freshman
 
 
 ### Fun facts❗️🪩: 
-- 👟🏃🏾‍♂️ I enjoy participating marathons, so much that I even completed a 50 mile race (Oct. 2021)!
+- 👟🏃🏾‍♂️ I enjoy running marathons, so much that I even completed a 50 mile race (Oct. 2021)!
 - 🥁🎵 I play the drums and ukulele 
 
 ### Connect with me
