@@ -13,9 +13,7 @@ Hello, my name is Bryce! 👋🏿 I started learning iOS Development my freshman
 ### Design:
 <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" />  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 
-- What I like about Native Development is Apple's Human Interface Guidelines and what it means to design a great experience for any Apple platform
-  
-- Initially, design seemed like a daunting skill to learn in iOS Development, but it has become an art that I truly appreciate. When building my own app, I had to design an app icon and all the UI elements. Additionally, I recognized the importance of prototyping. Being able to visualize what an app should look like or interact with a new feature before investing development time has become a strategy I employ, inspired this [WWDC session](https://developer.apple.com/videos/play/wwdc2014/223/).
+- What I like about Native Development is Apple's Human Interface Guidelines and what it means to design a great experience for any Apple platform. Initially, design seemed like a daunting skill to learn in iOS Development, but it has become an art that I truly appreciate. [WWDC session](https://developer.apple.com/videos/play/wwdc2014/223/).
 
   
 ### Agile:
